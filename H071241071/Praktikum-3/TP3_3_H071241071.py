@@ -7,4 +7,4 @@ for x in range(N):
             print(f"MOVE to ({x},{y})")
     else:
         for y in range(M, 0, -1):
-            print(f"MOVE to ({x},{y})")
+            print(f"MOVE to ({x},{y-1})")
