@@ -1,5 +1,0 @@
-{
-    "id": "TICK24102024193135",
-    "film": "berusaha menjadi lebih baik",
-    "waktu_beli": "24-10-2024 19:31:35"
-}
